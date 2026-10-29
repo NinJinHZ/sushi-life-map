@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+release/
+*.mp4
+*.blend
+*.blend1
+*.writing.png
+*.writing.jpg

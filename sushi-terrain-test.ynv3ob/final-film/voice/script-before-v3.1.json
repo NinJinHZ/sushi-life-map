@@ -1,0 +1,169 @@
+{
+  "reference_audio": "/Volumes/2T硬盘/NinjinOS/projects/此心安处-苏轼人生地图/sushi-terrain-test.ynv3ob/final-film/voice/candidate-a.wav",
+  "reference_text": "一千零五十七年，苏轼来到汴京。此后，他的一生将在庙堂与江湖之间，徐徐展开。",
+  "entries": [
+    {
+      "id": "opening-birth",
+      "chapter": "opening",
+      "preferred_start": 3.5,
+      "text": "一千零三十七年，苏轼生于眉州眉山。两年后，弟弟苏辙出生。"
+    },
+    {
+      "id": "opening-journey",
+      "chapter": "opening",
+      "preferred_start": 11.5,
+      "text": "一千零五十六年，苏洵带着两个儿子离开眉山，前往汴京。"
+    },
+    {
+      "id": "bijing-01",
+      "chapter": "bijing",
+      "preferred_start": 21.8,
+      "text": "嘉祐二年，苏轼与苏辙同榜及第。欧阳修读到他的文章，惊叹不已。"
+    },
+    {
+      "id": "bijing-02",
+      "chapter": "bijing",
+      "preferred_start": 21.758,
+      "text": "这一榜被称为千年龙虎榜。苏轼、苏辙、曾巩，后来同列唐宋八大家；张载、程颢也同榜及第。主考官，是欧阳修。"
+    },
+    {
+      "id": "fengxiang-01",
+      "chapter": "fengxiang",
+      "preferred_start": 45.8,
+      "text": "嘉祐六年，苏轼赴凤翔任签书判官。这是他第一次正式到地方任职。"
+    },
+    {
+      "id": "fengxiang-02",
+      "chapter": "fengxiang",
+      "preferred_start": 55.758,
+      "text": "在凤翔，他第一次处理具体政务。文章里的理想，从此要落到刑狱、赋税和民生里。"
+    },
+    {
+      "id": "fengxiang-03",
+      "chapter": "fengxiang",
+      "preferred_start": 65.758,
+      "text": "人生到处知何似，应似飞鸿踏雪泥。"
+    },
+    {
+      "id": "hangzhou-01",
+      "chapter": "hangzhou",
+      "preferred_start": 73.8,
+      "text": "熙宁四年，因议论新法不合，苏轼自请外任，来到杭州。西湖让他暂时远离朝堂，也让他的诗词有了另一种开阔。"
+    },
+    {
+      "id": "hangzhou-02",
+      "chapter": "hangzhou",
+      "preferred_start": 87.758,
+      "text": "欲把西湖比西子，淡妆浓抹总相宜。"
+    },
+    {
+      "id": "mizhou-01",
+      "chapter": "mizhou",
+      "preferred_start": 93.8,
+      "text": "三年后，他北上密州，第一次成为一州知州。捕蝗、赈饥、救助弃婴，日子的艰难，让他更靠近百姓。"
+    },
+    {
+      "id": "mizhou-02",
+      "chapter": "mizhou",
+      "preferred_start": 105.958,
+      "text": "熙宁九年中秋，他想念远在济南的苏辙，写下：但愿人长久，千里共婵娟。"
+    },
+    {
+      "id": "xuzhou-01",
+      "chapter": "xuzhou",
+      "preferred_start": 115.8,
+      "text": "在徐州，黄河决口，洪水直抵城下。苏轼住在城墙上，与军民守城七十余日。水退以后，他又推动修筑堤防，把下一次危险想在前面。"
+    },
+    {
+      "id": "wutai-01",
+      "chapter": "wutai",
+      "preferred_start": 133.8,
+      "text": "元丰二年，御史台指控苏轼用诗文讥讽新法。他在湖州被捕，押回汴京，关进御史台狱。"
+    },
+    {
+      "id": "wutai-02",
+      "chapter": "wutai",
+      "preferred_start": 142.758,
+      "text": "这就是乌台诗案。关押四个多月后，他出狱，被贬到黄州。"
+    },
+    {
+      "id": "huangzhou-01",
+      "chapter": "huangzhou",
+      "preferred_start": 155.8,
+      "text": "在黄州，他是没有实权的团练副使。俸禄微薄，便在城东的坡地耕种；自此，世间多了一个名字，苏东坡。"
+    },
+    {
+      "id": "huangzhou-02",
+      "chapter": "huangzhou",
+      "preferred_start": 169.958,
+      "text": "元丰五年，他在黄州写下《赤壁怀古》。大江东去，浪淘尽，千古风流人物。"
+    },
+    {
+      "id": "huangzhou-03",
+      "chapter": "huangzhou",
+      "preferred_start": 179.658,
+      "text": "《定风波》，也写于这里。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。"
+    },
+    {
+      "id": "return-01",
+      "chapter": "return",
+      "preferred_start": 188.8,
+      "text": "元丰七年，他离开黄州，量移汝州；次年短暂知登州，又被召回朝廷。"
+    },
+    {
+      "id": "return-02",
+      "chapter": "return",
+      "preferred_start": 198.758,
+      "text": "短短数年，他官至翰林学士，却仍因不肯附和任何一派，再次请求外放。"
+    },
+    {
+      "id": "hangzhou2-01",
+      "chapter": "hangzhou2",
+      "preferred_start": 205.8,
+      "text": "元祐四年，他重返杭州。这一次，不只是游湖。第二年，他主持疏浚西湖，以葑草淤泥筑成长堤。后人把它叫作，苏堤。"
+    },
+    {
+      "id": "later-01",
+      "chapter": "later",
+      "preferred_start": 222.8,
+      "text": "此后几年，他从颍州到扬州，又到定州。地图上的停留越来越短，朝局的变化却越来越急。"
+    },
+    {
+      "id": "huizhou-01",
+      "chapter": "huizhou",
+      "preferred_start": 240.8,
+      "text": "绍圣元年，苏轼被贬惠州。岭南路远，亲友离散，他仍种药、酿酒、修桥，认真安排眼前的生活。"
+    },
+    {
+      "id": "huizhou-02",
+      "chapter": "huizhou",
+      "preferred_start": 252.158,
+      "text": "日啖荔枝三百颗，不辞长作岭南人。诗句写得轻快，背后却是一次没有归期的放逐。"
+    },
+    {
+      "id": "danzhou-01",
+      "chapter": "danzhou",
+      "preferred_start": 262.8,
+      "text": "三年后，他再被贬到儋州。越过琼州海峡，已是天涯。苏轼在这里讲学、写作，与当地人往来，把流放之地，重新过成生活。"
+    },
+    {
+      "id": "changzhou-01",
+      "chapter": "changzhou",
+      "preferred_start": 286.8,
+      "text": "元符三年，他获赦北归。渡海、入赣、下江南，路越走，故乡越近，身体却一天天衰弱。"
+    },
+    {
+      "id": "changzhou-02",
+      "chapter": "changzhou",
+      "preferred_start": 298.758,
+      "text": "第二年，苏轼在常州去世。他没有回到眉山，却把自己的一生，留在了这张辽阔的地图上。",
+      "gap_after": 0.15
+    },
+    {
+      "id": "changzhou-03",
+      "chapter": "changzhou",
+      "preferred_start": 305.758,
+      "text": "问汝平生功业，黄州惠州儋州。此心安处，是吾乡。"
+    }
+  ]
+}

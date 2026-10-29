@@ -1,0 +1,33 @@
+{
+  "name": "china",
+  "zoom": 9,
+  "tiles": [
+    352,
+    160,
+    464,
+    239
+  ],
+  "bounds": [
+    67.5,
+    11.178401873711794,
+    146.953125,
+    55.7765730186677
+  ],
+  "requested_bounds": [
+    67.5,
+    11.178401873711794,
+    146.25,
+    55.7765730186677
+  ],
+  "size": [
+    28928,
+    20480
+  ],
+  "elevation_min": -10902.1875,
+  "elevation_max": 8704.0,
+  "sources": {
+    "elevation": "Mapzen elevation tiles, Terrarium encoding, AWS elevation-tiles-prod",
+    "imagery": "Esri World Imagery"
+  },
+  "dem_repairs": 2
+}
